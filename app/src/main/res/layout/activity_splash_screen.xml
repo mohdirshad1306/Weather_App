@@ -40,7 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="24dp"
         android:fontFamily="@font/merriweathersans_medium"
-        android:text="created by : AFTAB ALAM"
+        android:text="created by : SIDDIQUE IRSHAD"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="20sp"
